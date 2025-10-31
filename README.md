@@ -7,8 +7,10 @@ A small game about popping balloons to earn points in a given timeframe.
 - Pop balloons by clicking on them
 
 🚀 Usage
+
 Runs on browser
 
 💭 Feedback and Contributing
+
 Feel free to request additions, report bugs, and remix!
 
