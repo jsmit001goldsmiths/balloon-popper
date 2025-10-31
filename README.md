@@ -1,5 +1,5 @@
 ℹ️ Overview
-A small game about popping balloons to earn points in a given timeframe.
+-  A small game about popping balloons to earn points in a given timeframe.
 
 🌟 Highlights
 - Different modes / speeds
@@ -7,10 +7,8 @@ A small game about popping balloons to earn points in a given timeframe.
 - Pop balloons by clicking on them
 
 🚀 Usage
-
-Runs on browser
+- Runs on browser
 
 💭 Feedback and Contributing
-
-Feel free to request additions, report bugs, and remix!
+- Feel free to request additions, report bugs, and remix!
 
